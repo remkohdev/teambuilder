@@ -1,0 +1,15 @@
+{
+  "ids": {
+    "Member": 3,
+    "Team": 2
+  },
+  "models": {
+    "Member": {
+      "1": "{\"username\":\"user1\",\"email\":\"user1@email.com\",\"password\":\"passw0rd1\",\"firstname\":\"John\",\"lastname\":\"Smith\",\"college\":\"NYU\",\"major\":\"Computer Science\",\"id\":1}",
+      "2": "{\"username\":\"user2\",\"email\":\"user2@email.com\",\"password\":\"passw0rd2\",\"firstname\":\"Katie\",\"lastname\":\"Lu\",\"college\":\"Berkeley\",\"major\":\"Computer Science\",\"id\":2}"
+    },
+    "Team": {
+      "1": "{\"name\":\"Team One\",\"description\":\"Not just another team, we are the best\",\"members\":[1],\"memberId\":1,\"id\":1}"
+    }
+  }
+}
